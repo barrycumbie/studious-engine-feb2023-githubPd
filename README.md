@@ -5,4 +5,4 @@
 - Car = 1986 Labaron Convertible 
 
 ## About Emilie Young
-- At [CU Boulder] (https://www.colorado.edu)
+- At [CU Boulder](https://www.colorado.edu)
