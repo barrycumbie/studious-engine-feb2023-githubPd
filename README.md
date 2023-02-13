@@ -3,3 +3,4 @@
 ## About Barry Cumbie
 - At [UNA](https://www.una.edu)
 - Car = 1986 Labaron Convertible 
+- Typical Stack = Node.js - Express.js - MongoDb - Ejs 
