@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "## About Barry Cumbie - At [UNA](https://www.una.edu) - Car = 1986 Labaron Convertible  - Typical Stack = Node.js - Express.js - MongoDb - Ejs  - Barry's Course 🚀 page: https://gist.github.com/barrycumbie/b47f2b7ad78a231d9b8fe4bc539b441f   - codeAcademy web dev 2020 map: https://coggle.it/diagram/XfeRbWj7xy3dsEX8/t/web-development-in-2020",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barrycumbie/studious-engine-feb2023-githubPd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barrycumbie/studious-engine-feb2023-githubPd/issues"
+  },
+  "homepage": "https://github.com/barrycumbie/studious-engine-feb2023-githubPd#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
